@@ -1,0 +1,73 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Ketan Rawat
+Updated:
+Notes:	 Hand coded for .com
+
+*/
+svg{
+   background-color: #ffff80;    /**/
+   margin-left : auto;
+   margin-right: auto;
+   display: block;
+   margin-top: 92px;
+}
+
+
+.axis path,
+.axis line{
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.navbar h1{
+   color: white;
+}
+.navbar {
+
+   background-color: black;
+}
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
